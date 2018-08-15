@@ -26,6 +26,8 @@ more_than_1 <- edwards_raw %>%
 	tally() %>% 
 	filter(n> 1)
 
+write_csv(more_than_1, "data-processed/edwards-multi-entries-per-species.csv")
+
 
 edwards_raw %>% 
 	filter(species == "Fragilaria bidens") %>% 
@@ -56,6 +58,6 @@ ggplot(data = fragilaria, aes(x=temperature, y=irradiance, fill=mean_growth)) +
 edwards_raw %>% 
 	# filter(species == "Fragilaria bidens") %>% 
 	ggplot(aes(x=temperature, y=irradiance, color=growth_rate)) + 
-	geom_point(size = 3, alpha = 0.7) + scale_color_viridis_c() +
+	geom_point(size = 4, alpha = 0.7) + scale_color_viridis_c() +
 	facet_wrap( ~ species, scales = "free") +ylab("Irradiance") + xlab("Temperature (°C)")
 ggsave("figures/edwards-temp-irradiance-heatmap.pdf", width = 16, height = 14)

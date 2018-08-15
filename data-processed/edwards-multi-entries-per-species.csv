@@ -1,0 +1,128 @@
+species,temperature,irradiance,n
+Anabaena cylindrica,15,75,2
+Anabaena cylindrica,25,75,2
+Anabaena cylindrica,29,50,2
+Ankistrodesmus falcatus,35,256,2
+Cryptomonas sp. 1,5,30,4
+Cryptomonas sp. 1,5,75,4
+Cryptomonas sp. 1,5,111,4
+Cryptomonas sp. 1,5,195,3
+Cryptomonas sp. 1,5,280,3
+Cryptomonas sp. 1,10,30,3
+Cryptomonas sp. 1,10,75,3
+Cryptomonas sp. 1,10,111,3
+Cryptomonas sp. 1,10,195,3
+Cryptomonas sp. 1,10,280,3
+Cryptomonas sp. 1,12,25,4
+Cryptomonas sp. 1,12,52,4
+Cryptomonas sp. 1,12,110,2
+Cryptomonas sp. 1,12,200,4
+Cryptomonas sp. 1,12,290,4
+Cryptomonas sp. 1,16,25,4
+Cryptomonas sp. 1,16,52,3
+Cryptomonas sp. 1,16,110,4
+Cryptomonas sp. 1,16,200,3
+Cryptomonas sp. 1,16,290,3
+Cryptomonas sp. 1,21,25,3
+Cryptomonas sp. 1,21,52,3
+Cryptomonas sp. 1,21,110,4
+Cryptomonas sp. 1,21,200,4
+Cryptomonas sp. 1,21,290,4
+Cryptomonas sp. 2,5,30,4
+Cryptomonas sp. 2,5,75,2
+Cryptomonas sp. 2,5,110,3
+Cryptomonas sp. 2,5,196,2
+Cryptomonas sp. 2,5,280,4
+Cryptomonas sp. 2,8,30,2
+Cryptomonas sp. 2,8,75,3
+Cryptomonas sp. 2,8,110,2
+Cryptomonas sp. 2,8,196,2
+Cryptomonas sp. 2,8,280,3
+Cryptomonas sp. 2,12,27,3
+Cryptomonas sp. 2,12,57,5
+Cryptomonas sp. 2,12,121,4
+Cryptomonas sp. 2,12,185,4
+Cryptomonas sp. 2,12,267,5
+Cryptomonas sp. 2,16,27,3
+Cryptomonas sp. 2,16,57,3
+Cryptomonas sp. 2,16,121,3
+Cryptomonas sp. 2,16,185,3
+Cryptomonas sp. 2,16,267,2
+Cryptomonas sp. 2,21,27,3
+Cryptomonas sp. 2,21,57,3
+Cryptomonas sp. 2,21,121,4
+Cryptomonas sp. 2,21,185,4
+Cryptomonas sp. 2,21,267,4
+Cryptomonas sp. 2,25,27,4
+Cryptomonas sp. 2,25,57,4
+Cryptomonas sp. 2,25,121,3
+Cryptomonas sp. 2,25,185,2
+Cryptomonas sp. 2,25,267,3
+Dictyosphaerium pulchellum,32,355,3
+Fragilaria bidens,10,10,2
+Fragilaria bidens,10,20,2
+Fragilaria bidens,10,40,2
+Fragilaria bidens,10,250,2
+Fragilaria bidens,10,375,2
+Fragilaria bidens,10,480,2
+Fragilaria bidens,15,10,5
+Fragilaria bidens,15,20,4
+Fragilaria bidens,15,40,3
+Fragilaria bidens,15,55,3
+Fragilaria bidens,15,80,2
+Fragilaria bidens,15,125,2
+Fragilaria bidens,15,150,2
+Fragilaria bidens,15,200,4
+Fragilaria bidens,15,375,2
+Fragilaria bidens,15,400,2
+Fragilaria bidens,15,480,2
+Fragilaria bidens,15,650,2
+Fragilaria bidens,20,30,2
+Fragilaria bidens,20,80,2
+Fragilaria bidens,20,480,2
+Fragilaria bidens,20,650,2
+Fragilaria bidens,22,10,2
+Fragilaria bidens,22,40,2
+Fragilaria bidens,22,80,2
+Fragilaria bidens,25,10,2
+Fragilaria bidens,25,80,2
+Fragilaria bidens,25,115,2
+Fragilaria bidens,25,150,2
+Fragilaria bidens,25,175,2
+Fragilaria bidens,25,250,4
+Fragilaria bidens,25,375,3
+Fragilaria bidens,25,400,2
+Fragilaria bidens,25,650,2
+Fragilaria bidens,29,30,2
+Fragilaria bidens,32,20,2
+Fragilaria bidens,32,30,2
+Fragilaria bidens,32,55,2
+Fragilaria bidens,32,125,2
+Fragilaria bidens,32,175,2
+Fragilaria bidens,32,250,2
+Leptocylindricus danicus,20,6,3
+Leptocylindricus danicus,20,72,2
+Leptocylindricus danicus,20,90,2
+Monoraphidium minutum,15,30,2
+Monoraphidium minutum,25,30,2
+Monoraphidium minutum,35,50,2
+Ochromonas sp.,13,12,2
+Ochromonas sp.,13,19,2
+Ochromonas sp.,13,62,2
+Ochromonas sp.,17,6,2
+Ochromonas sp.,29,29,2
+Ochromonas sp.,33,7,2
+Ochromonas sp.,33,15,2
+Pediastrum boryanum,32,340,2
+Planktothrix agardhii,30,160,2
+Pseudochattonella farcimen,4,30,2
+Pseudochattonella farcimen,6,30,2
+Pseudochattonella farcimen,6,97,2
+Pseudochattonella farcimen,11,30,2
+Pseudochattonella farcimen,11,97,2
+Pseudochattonella farcimen,13,30,2
+Pseudochattonella farcimen,13,97,2
+Pseudochattonella farcimen,16,30,2
+Pseudochattonella farcimen,16,97,2
+Scenedesmus quadricauda,20,102,2
+Scenedesmus quadricauda,32,383,3
