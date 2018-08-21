@@ -35,7 +35,7 @@ melted_cormat <- melt(corr_mat)
 ggplot(data = melted_cormat, aes(x=Var1, y=Var2, fill=value)) + 
 	geom_tile(size = 4)
 ggplot(data = melted_cormat, aes(Var2, Var1, fill = value))+
-	geom_tile(color = "white", size = 0.05)+
+	geom_tile(color = "white", size = 0.005)+
 	scale_fill_gradient2(low = "blue", high = "red", mid = "white", 
 						 midpoint = 0, limit = c(-1,1), space = "Lab", 
 						 name="Pearson\nCorrelation") +
