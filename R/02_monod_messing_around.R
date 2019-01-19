@@ -83,6 +83,7 @@ ggheatmap +
 								 title.position = "top", title.hjust = 0.5))
 
 ggsave("figures/correlation_plot.pdf", width = 6, height = 4)
+
 tpc_temps <- unique(growth_temp$assay.temp)
 
 pca16 <- rda(growth_16, scale=TRUE)
